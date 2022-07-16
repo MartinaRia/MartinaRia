@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MartinaRia
-- 👀 I’m interested in web development in general and front end in particular
-- 📚 I'm currently studying project management
-- 🌱 I wish to learn Angular and React
+- 👀 I was a web developer once
+- 📚 I'm currently working as an IT Project Manager
+- 🌱 I wish I had learned Angular and React
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: martina.ria@hotmail.com
 
