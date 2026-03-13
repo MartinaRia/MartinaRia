@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MartinaRia
-- 👀 I was a web developer once
-- 📚 I'm currently working as an IT Project Manager & Product Owner
+- 💡 Innovation Manager Cert. UNI 11814
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: martina.ria@hotmail.com
 
